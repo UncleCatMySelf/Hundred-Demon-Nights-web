@@ -1,7 +1,7 @@
 <template>
-  <div class="hello">
-    
-  </div>
+  <el-footer>
+    footer
+  </el-footer>
 </template>
 
 <script>

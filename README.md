@@ -1,4 +1,4 @@
-# freeamll
+# JavaCatSay
 
 ## Project setup
 ```

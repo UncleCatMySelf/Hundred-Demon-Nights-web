@@ -1,7 +1,7 @@
 <template>
-  <div class="hello">
-    
-  </div>
+  <el-main>
+    main
+  </el-main>
 </template>
 
 <script>

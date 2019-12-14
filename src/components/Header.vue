@@ -1,7 +1,7 @@
 <template>
-  <div class="hello">
-    
-  </div>
+  <el-header>
+    header
+  </el-header>
 </template>
 
 <script>

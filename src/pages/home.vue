@@ -1,13 +1,22 @@
 <template>
-  <div class="hello">
-    this is hdn-home
-  </div>
+  <el-container>
+    <nav-header></nav-header>
+    
+    <nav-footer></nav-footer>
+  </el-container>
 </template>
 
 <script>
+import NavHeader from './../components/Header'
+import NavFooter from './../components/Footer'
+
 export default {
   name: 'hdn-home',
-  props: {}
+  props: {},
+  components:{
+    NavHeader,
+    NavFooter
+  }
 }
 </script>
 
