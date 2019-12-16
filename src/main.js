@@ -5,6 +5,8 @@ import axios from 'axios'
 import VueAxios from 'vue-axios'
 import router from './router'
 
+import 'element-ui/lib/theme-chalk/index.css'
+
 Vue.use(ElementUI);
 Vue.use(VueAxios, axios);
 //提示开关

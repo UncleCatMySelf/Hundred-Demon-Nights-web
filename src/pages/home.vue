@@ -1,9 +1,12 @@
 <template>
-  <el-container>
-    <nav-header></nav-header>
-    
-    <nav-footer></nav-footer>
-  </el-container>
+  <div>
+    <el-header>
+        <nav-header></nav-header>
+      </el-header>
+      <el-container>
+        <nav-footer></nav-footer>
+      </el-container>
+  </div>
 </template>
 
 <script>
